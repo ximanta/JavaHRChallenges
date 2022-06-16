@@ -86,8 +86,7 @@ import java.util.List;
  * Comparing the 1st and 2nd elements, 28>16 and 30>8 so Alice receives two points.
  * The return array is [2,1].
  *
- * @author Mariana Azevedo
- * @since 16/02/2020
+
  */
 public class CompareTriplets {
 
