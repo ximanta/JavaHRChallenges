@@ -56,5 +56,5 @@ Sheldon has a crush on one of his classmates, but he is afraid to ask her out an
         6. 101011(43)
 */
 public class LoveStream {
-    
+
 }
